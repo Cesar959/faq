@@ -1,15 +1,17 @@
 <h1 align="center"> FAQ </h1>
 
 <p align="center">
-    <img src="doc/resultado_projeto/resultado.png" alt="imagem-site" width="600" height="auto" >
- </p>
+    <img src="doc/resultado_projeto/resultado.png" alt="imagem-site" width="600" height="auto">
+</p>
 
 
 Criação da template FAQ accordion card baseado no desafio proposto pela Frontend Mentor que sugeriu desafios reais do mercado de trabalho afim de ajudar no desenvolvimento de novas habilidades de programação.
 
 ## Descrição
 
-  O site foi baseado no desafio de programação da Frontend Mentor no qual sugeria o desenvolvimento de uma página de FAQ responsiva a partir de um esboço de como ficaria o site, que poder ser encontrado na pasta __doc__/__design__  nesse mesmo repositório. 
+
+ O site foi baseado no desafio de programação da Frontend Mentor no qual sugeria o desenvolvimento de uma página de FAQ responsiva a partir de um esboço de como ficaria o site, que poder ser encontrado na pasta __doc__/__design__  nesse mesmo repositório. 
+
 
 ### Desafio proposto
 
