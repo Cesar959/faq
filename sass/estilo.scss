@@ -20,6 +20,7 @@
 .imagem_fundo_mobile
 {
 	z-index: 20;
+	position: relative;
     margin-top: -300px;
     text-align: center;
     width: 375px;
@@ -81,6 +82,8 @@
 	.ilustracao_mulher_mobile
 	{
 		width: 400px;
+		z-index: 90;
+    	position: relative;
 		margin-top: -160px;
 		text-align: center;
 		display: none;
